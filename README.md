@@ -21,7 +21,7 @@ Este é um projeto desenvolvido como parte do desafio da trilha React do Ignite 
 ```bash
 # 1. Clone este repositório em sua máquina local
 
-$ git clone https://github.com/ismael-albert/ignite-rocketshoes
+$ git clone https://github.com/ismael-albert/ignite-rocketshoes.git
 
 # 2. Instale as dependências do projeto
 
