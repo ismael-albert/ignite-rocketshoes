@@ -25,7 +25,7 @@ $ git clone https://github.com/ismael-albert/ignite-rocketshoes.git
 
 # 2. Instale as dependências do projeto
 
-$ cd projeto-carrinho-de-compras
+$ cd ignite-rocketshoes
 $ npm install
 
 # 3. Inicie o JSON Server
