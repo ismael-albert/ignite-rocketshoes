@@ -1,8 +1,15 @@
-# Desafio - Criando um hook de carrinho de compras
+<h1 align="center">
+    <a href="#">Rocket Shoes </a>
+</h1>
 
 Este é um projeto desenvolvido como parte do desafio da trilha React do Ignite da Rocketseat. O objetivo deste projeto é criar um carrinho de compras usando React hooks, Fake API com JSON Server, preservar dados do carrinho com localStorage API e mostrar erros com toastify.
 
-## Tecnologias Utilizadas
+## ▶️ Preview:
+![Preview do Projeto](https://github.com/ismael-albert/challenge-ignite-rocketshoes/blob/master/src/assets/preview.gif)
+
+
+
+## 🖥️ Tecnologias Utilizadas
 
 - React
 - React hooks
@@ -39,12 +46,10 @@ $ npm run start
 - Exibição de mensagens de erro;
 - Entre outros.
 
-## Preview:
-![Preview do Projeto](https://github.com/ismael-albert/challenge-ignite-rocketshoes/blob/master/src/assets/preview.gif)
 
-
-## Dev
+## 🧑🏽‍💻 Dev
 
 - Ismael Albert
 - albertismael7@gmail.com
 - https://www.linkedin.com/in/ismaelalbert/
+---
