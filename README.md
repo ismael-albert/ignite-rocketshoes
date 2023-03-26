@@ -11,33 +11,24 @@ Este é um projeto desenvolvido como parte do desafio da trilha React do Ignite 
 - Toastify
 
 ## Como Executar o Projeto
+```bash
+# 1. Clone este repositório em sua máquina local
 
-1. Clone este repositório em sua máquina local
+$ git clone https://github.com/ismael-albert/challenge-ignite-rocketshoes
+
+# 2. Instale as dependências do projeto
+
+$ cd projeto-carrinho-de-compras
+$ npm install
+
+# 3. Inicie o JSON Server
+$ npm run server
+
+# 4. Inicie o projeto React
+$ npm run start
+
+# 5. Abra o navegador em `http://localhost:3000`
 ```
-git clone https://github.com/ismael-albert/challenge-ignite-rocketshoes
-```
-
-
-2. Instale as dependências do projeto
-```
-cd projeto-carrinho-de-compras
-npm install
-```
-
-
-3. Inicie o JSON Server
-```
-npm run server
-```
-
-
-4. Inicie o projeto React
-```
-npm run start
-```
-
-5. Abra o navegador em `http://localhost:3000`
-
 ## Funcionalidades
 
 - Adicionar um novo produto ao carrinho;
