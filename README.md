@@ -31,7 +31,7 @@ $ npm install
 # 3. Inicie o JSON Server
 $ npm run server
 
-# 4. Inicie o projeto React
+# 4. Inicie o projeto React  
 $ npm run start
 
 # 5. Abra o navegador em `http://localhost:3000`
